@@ -1,0 +1,48 @@
+---
+baseline-2.2-r1:
+  description: Initial PCF 2.2 Release
+  products:
+    opsman-director: v2.2-build.398
+    PAS: v2.2.10
+    credhub-service-broker: v1.0.2
+    metrics: v1.4.6
+    redis: v1.12.1
+    single-signon: v1.7.0
+    mysql-v2: v2.3.1
+    scheduler: v1.2.0
+    rabbitmq: v1.13.8
+    crunchy-postgres: v05.1005.001
+    healthwatch: v1.3.2
+    spring-cloud-services: v1.5.8
+
+baseline-2.2-r2:
+  description: Tile Updates for Xenial Stemcells (PCF 2.3.x prep)
+  products:
+    opsman-director: v2.2-build.398
+    PAS: v2.2.10
+    credhub-service-broker: v1.2.0
+    metrics: v1.6.0
+    redis: v1.13.7
+    single-signon: v1.8.0
+    mysql-v2: v2.4.4
+    scheduler: v1.2.23
+    rabbitmq: v1.14.7
+    crunchy-postgres: v05.1007.004
+    healthwatch: v1.4.4
+    spring-cloud-services: v2.0.6
+
+baseline-2.3-r1:
+  description: Initial PCF 2.3 Release
+  products:
+    opsman-director: v2.3-build.250
+    PAS: v2.3.7
+    credhub-service-broker: v1.3.1
+    metrics: v1.6.0
+    redis: v1.14.4
+    single-signon: v1.8.0
+    mysql-v2: v2.4.4
+    scheduler: v1.2.23
+    rabbitmq: v1.14.7
+    crunchy-postgres: v05.1007.004
+    healthwatch: v1.4.4
+    spring-cloud-services: v2.0.6
